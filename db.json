@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "Adult Story": [
     {
-      "id": 1,
-      "title": "hello"
+      "A S 1 Topic": "Topic",
+      "Description": "Des here",
+      "picture": "link here"
+    },
+    {
+      "image": ""
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Bf Story": [
+    {
+      "Bf1 Topic": "Topic",
+      "Description": "Des here",
+      "picture": "link here"
+    },
+    {
+      "image": ""
+    }
+  ]
 }
