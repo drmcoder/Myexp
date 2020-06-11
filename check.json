@@ -1,7 +1,6 @@
 {
-"1": [
     {
-      
+      "case":"1",
       "question": "A 35 year old man presents with palpitations. He has been drinking heavily with friends over the weekend. This is his ECG. Present your findings and give a diagnosis.",
       "picture_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Normal_12_lead_EKG.jpg/220px-Normal_12_lead_EKG.jpg",
       "answer":"<p><strong>Presentation:</strong></p>
@@ -69,10 +68,11 @@
 <p>This ECG shows atrial fibrillation (AF) with a fast ventricular response. With this history the underlying diagnosis would&nbsp;fit with a &lsquo;holiday heart&rsquo; syndrome.</p>"
     },
    
-  ],
-  "2":[
+ 
+  
   
     {
+        "case":"2"
       "question":"A fit and well 31 year old man presents for a routine insurance medical. This is his ECG. Present your findings and give the diagnosis.",
       "answer":"<p><strong>Presentation:</strong></p>
 <table>
@@ -140,6 +140,6 @@
       
     },
     
-  ],
+
 
 }
